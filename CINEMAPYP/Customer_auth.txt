@@ -1,5 +1,4 @@
-C1001, JianWen, jianwen67@yahoo.com, sjw676767
-C1002, Jeffson Goh, goh@gmail.com, password123
-C1003, Bob, bobby@mail.com, bobb234
-C1004, DingZheng*, dingZheng@gmail.com, dqwqwesad123123
-C1005, Filewee, Filewee@gmail.com, 12345678C1006, noor, hamzanooralig@hotmail.co, moon
+C1001, alice, alice@example.com, demo1234
+C1002, bob, bob@example.com, demo1234
+C1003, charlie, charlie@example.com, demo1234
+C1004, diana, diana@example.com, demo1234

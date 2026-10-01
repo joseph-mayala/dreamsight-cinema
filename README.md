@@ -36,8 +36,8 @@ cd CINEMAPYP
 python Cinema_System.py
 ```
 
-Pick a role from the main menu. Staff logins are in the matching `*_auth.txt` file; customers can register a
-new account from the customer menu.
+Pick a role from the main menu. Staff logins are in the matching `*_auth.txt` file. Customers can register a
+new account from the customer menu, or log in as the sample customer `C1001` with password `demo1234`.
 
 ## Files
 
